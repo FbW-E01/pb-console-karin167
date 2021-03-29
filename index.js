@@ -23,7 +23,7 @@ console.log("My favourite food is: " + favouriteFood);
 
 
 let age = "26";
-console.log("Hello, my name is: " + firstName + " and i am " + age + " years old");
+console.log("Hello, my name is: " + firstName + " and i am " + age + " years old, and im living in " + country + "," + city);
 
 
 
